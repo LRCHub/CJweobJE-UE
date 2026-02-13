@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "感謝のコントレイル (Game Size)",
+  "base_artist": "シャイニーカラーズ",
+  "createdAt": "2026-02-13T15:57:16.999872Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "感謝のコントレイル",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/pl_01_感謝のコントレイル_シャイニーカラーズ.txt"
+    }
+  ]
+}
